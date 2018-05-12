@@ -1,2 +1,5 @@
 Проверка пуша
 text from base folder
+
+
+Whatta fuck with line endings ?
