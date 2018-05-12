@@ -1,2 +1,2 @@
 Проверка пуша
-Text from Fresh directory
+text from base folderText from Fresh directory
